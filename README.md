@@ -1,6 +1,6 @@
 # 🎶 String Synthesizer with Interactive Pedals
 
-Welcome to the **String-like Synthesizer** project! This is a digital synthesizer built using p5.js and Tone.js, allowing users to explore sound through interactive pedals and keyboard notes. Whether you're into music, coding, or just curious, this project has something for you!
+Welcome to my **String Synthesizer** project! This is a digital synthesizer built using p5.js and Tone.js, allowing users to explore sound through interactive pedals and keyboard notes. Whether you're into music, coding, or just curious, this project has something for you!
 
 ## 🌟 Features
 
